@@ -35,3 +35,24 @@ Throughout the time, Google has been making changes in its search algorithms, th
 ### Hummingbird update
 * Change algorithm that strengthens the semantic search.
 
+https://moz.com/search-ranking-factors
+
+
+## 4. The SEO framework
+The SEO framework are all the activities and initiatives that we are going to execute in order to improve a project.
+
+Process:
+* Create a strategy:
+    - Keywords.
+    - Competitors.
+    - Errors of crawling.
+
+* Site optimization:
+    - Optimization of pages.
+    - Structure of links.
+    - KWS ranking.    
+
+* Generate traffic:
+    - Social networks.
+    - Content.
+    - Link building.
